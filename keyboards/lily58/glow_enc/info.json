@@ -8,6 +8,11 @@
         "pid": "0x0059",
         "device_version": "1.0.0"
     },
+    "features": {
+        "encoder": true,
+        "oled": true,
+        "rgblight": true
+    },
     "layouts": {
         "LAYOUT": {
             "layout": [
